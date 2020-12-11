@@ -1,5 +1,5 @@
-function goldenRatio(num) {
-    return num * 1.61803398875;
+function goldenRatio(n: number): number{
+    return n * 1.61803398875;
 }
   console.log(goldenRatio(1))
 
